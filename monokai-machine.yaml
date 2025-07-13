@@ -1,0 +1,18 @@
+scheme: 'Monokai Machine'
+author: 'Nathan Ward'
+base00: '273136' # Editor background
+base01: '1d2528' # Sidebar background
+base02: '3a4449' # Panel background, selections
+base03: '6b7678' # Comments
+base04: '8b9798' # Inactive text
+base05: 'f2fffc' # Main foreground
+base06: 'b8c4c3' # Secondary foreground
+base07: 'ffffff' # Bright (for contrast)
+base08: 'ff6d7e' # Variables, errors (pink)
+base09: 'ffb270' # Numbers, constants (orange)
+base0A: 'ffed72' # Classes, warnings (yellow)
+base0B: 'a2e57b' # Strings (green)
+base0C: 'a1efe4' # Support, info (cyan)
+base0D: '7cd5f1' # Functions (cyan)
+base0E: 'baa0f8' # Keywords (purple)
+base0F: 'cb7f5f' # Deprecated (orange)
